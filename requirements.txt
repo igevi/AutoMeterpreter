@@ -1,0 +1,8 @@
+backports-abc==0.5
+colorama==0.4.1
+futures==3.2.0
+msgpack-python==0.5.6
+pymetasploit==1.1
+singledispatch==3.4.0.3
+six==1.12.0
+tornado==5.1.1
