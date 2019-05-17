@@ -21,7 +21,7 @@ The program can then be started with `python AutoMeterpreter.py` and when a new 
 **NOTE:** AutoMeterpreter must be run as root to function correctly!
 
 ## Config
-The configuration for C2S can be found in `config.py`
+The configuration for AutoMeterpreter.py can be found in `config.py`
 
 ## To Do
 * Add meterpreter scripts (text files holding newline separated meterpreter commands) that are executed sequentially 
