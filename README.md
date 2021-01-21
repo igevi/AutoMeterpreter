@@ -22,6 +22,3 @@ The program can then be started with `python AutoMeterpreter.py` and when a new 
 
 ## Config
 The configuration for AutoMeterpreter.py can be found in `config.py`
-
-## To Do
-* Add meterpreter scripts (text files holding newline separated meterpreter commands) that are executed sequentially 
